@@ -6,7 +6,7 @@
 
     uupdump.cn
 
-### 2.UUP Dump英文站
+### 2.UUP Dump 英文站
 
     uupdump.net
 
